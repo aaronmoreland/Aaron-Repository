@@ -1,0 +1,12 @@
+h1 {
+	color: hotpink;
+	background-color: peachpuff;
+	font-style: italic;
+	text-align: center;
+}
+
+p {
+	text-shadow: 4px 4px #00FFFF;
+	text-align: center;
+	text-decoration-line: underline;
+}
